@@ -1,0 +1,87 @@
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Bot Application.dll.config
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Bot Application.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Bot Application.pdb
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Autofac.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Chronic.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.Bot.Connector.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.Rest.ClientRuntime.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Newtonsoft.Json.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.Net.Http.Formatting.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.Web.Http.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.Web.Http.WebHost.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Autofac.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.Bot.Connector.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\Newtonsoft.Json.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.Net.Http.Formatting.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.Web.Http.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\System.Web.Http.WebHost.xml
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\obj\Debug\Bot Application3.csprojResolveAssemblyReference.cache
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\obj\Debug\Bot Application.dll
+D:\vs_proj\Csharp_proj\Bot Application3\Bot Application3\obj\Debug\Bot Application.pdb
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Bot Application.dll.config
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Bot Application.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Bot Application.pdb
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Autofac.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Chronic.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.Bot.Connector.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Newtonsoft.Json.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.Net.Http.Formatting.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.Web.Http.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.Web.Http.WebHost.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Autofac.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.Bot.Connector.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\Newtonsoft.Json.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.Net.Http.Formatting.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.Web.Http.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\System.Web.Http.WebHost.xml
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\obj\Debug\Bot Application3.csprojResolveAssemblyReference.cache
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\obj\Debug\Bot Application3.csproj.CoreCompileInputs.cache
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\obj\Debug\Bot Application.dll
+C:\Users\yyyuy\Desktop\Bot Application3\Bot Application3\obj\Debug\Bot Application.pdb
